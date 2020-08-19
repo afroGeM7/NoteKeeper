@@ -25,7 +25,7 @@
         android:ems="10"
         android:gravity="start|top"
         android:inputType="textMultiLine"
-        android:textColor="@color/colorAccent"
+        android:textColor="#111212"
         app:layout_constraintEnd_toEndOf="@+id/spinner_courses"
         app:layout_constraintHorizontal_bias="0.496"
         app:layout_constraintStart_toStartOf="@+id/spinner_courses"
