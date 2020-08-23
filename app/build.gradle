@@ -76,6 +76,8 @@ dependencies {
     testImplementation "androidx.arch.core:core-testing:$arch_version"
 }
 dependencies {
+    implementation 'androidx.legacy:legacy-support-v4:1.0.0'
+    implementation 'androidx.lifecycle:lifecycle-extensions:2.2.0'
     // Core library
     androidTestImplementation 'androidx.test:core:1.0.0'
 
