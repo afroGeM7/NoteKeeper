@@ -26,4 +26,10 @@
     <string name="communicate">Communicate</string>
     <string name="courses">Courses</string>
     <string name="notes">Notes</string>
+    <string name="textview14">TextView</string>
+    <string name="textview15">TextView</string>
+    <string name="todo">TODO</string>
+    <string name="textview11">textview11</string>
+    <string name="textview12">textview12</string>
+    <string name="textview13">textview12</string>
 </resources>
