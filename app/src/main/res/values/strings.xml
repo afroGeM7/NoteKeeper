@@ -34,4 +34,8 @@
     <string name="textview13">textview12</string>
     <string name="textview44">TextView</string>
     <string name="todo1">TODO</string>
+    <string name="note_title_hint">Note Title</string>
+    <string name="note_text_hint">Note Text</string>
+    <string name="nav_share_message">Don\'t you think you\'ve shared enough</string>
+    <string name="nav_send_message">Send</string>
 </resources>
