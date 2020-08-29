@@ -32,4 +32,6 @@
     <string name="textview11">textview11</string>
     <string name="textview12">textview12</string>
     <string name="textview13">textview12</string>
+    <string name="textview44">TextView</string>
+    <string name="todo1">TODO</string>
 </resources>
